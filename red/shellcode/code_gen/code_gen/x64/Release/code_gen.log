@@ -1,0 +1,2 @@
+﻿  code.cpp
+LINK : fatal error LNK1325: switch '/NOENTRY' only compatible with DLL; link without '/NOENTRY'
